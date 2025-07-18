@@ -51,24 +51,24 @@
     "clean-css": "^4.1.11",
     "copy": "^0.3.0",
     "get-pixels": "^3.3.0",
-    "mkdirp": "^0.5.1",
-    "node-sass": "^4.8.3",
-    "nodemon": "^1.17.3",
-    "npm-watch": "^0.1.7",
+    "mkdirp": "^0.5.6",
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.1.10",
+    "npm-watch": "^0.13.0",
     "parallelshell": "^2.0.0",
-    "rollup": "^0.41.4",
-    "rollup-plugin-babel": "^2.7.1",
+    "rollup": "^2.79.2",
+    "rollup-plugin-babel": "^4.4.0",
     "walk": "^2.3.13",
-    "yargs": "^6.6.0"
+    "yargs": "^18.0.0"
   },
   "dependencies": {
     "adaro": "^1.0.4",
-    "compression": "^1.7.2",
+    "compression": "^1.8.1",
     "connect-memcached": "^0.2.0",
     "dustjs-helpers": "^1.7.4",
-    "express": "^4.16.3",
-    "express-session": "^1.15.6",
-    "passport": "^0.3.2",
+    "express": "^4.21.2",
+    "express-session": "^1.18.2",
+    "passport": "^0.6.0",
     "passport-google-oauth20": "^1.0.0"
   }
 }
